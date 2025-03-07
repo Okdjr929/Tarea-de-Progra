@@ -1,0 +1,16 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\DELL\Desktop\tareas 3er Semestre\programacion 1\ConsoleApplication1\ConsoleApplication1.cpp(31,6): error C2143: error de sintaxis: falta ';' delante de '<<'
+C:\Users\DELL\Desktop\tareas 3er Semestre\programacion 1\ConsoleApplication1\ConsoleApplication1.cpp(31,1): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+C:\Users\DELL\Desktop\tareas 3er Semestre\programacion 1\ConsoleApplication1\ConsoleApplication1.cpp(31,6): error C2059: error de sintaxis: '<<'
+C:\Users\DELL\Desktop\tareas 3er Semestre\programacion 1\ConsoleApplication1\ConsoleApplication1.cpp(32,5): error C2143: error de sintaxis: falta ';' delante de '>>'
+C:\Users\DELL\Desktop\tareas 3er Semestre\programacion 1\ConsoleApplication1\ConsoleApplication1.cpp(32,1): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+C:\Users\DELL\Desktop\tareas 3er Semestre\programacion 1\ConsoleApplication1\ConsoleApplication1.cpp(32,5): error C2059: error de sintaxis: '>>'
+C:\Users\DELL\Desktop\tareas 3er Semestre\programacion 1\ConsoleApplication1\ConsoleApplication1.cpp(35,1): error C2059: error de sintaxis: 'if'
+C:\Users\DELL\Desktop\tareas 3er Semestre\programacion 1\ConsoleApplication1\ConsoleApplication1.cpp(35,12): error C2143: error de sintaxis: falta ';' delante de '{'
+C:\Users\DELL\Desktop\tareas 3er Semestre\programacion 1\ConsoleApplication1\ConsoleApplication1.cpp(35,12): error C2447: '{': falta el encabezado de función (¿lista formal de estilo anterior?)
+C:\Users\DELL\Desktop\tareas 3er Semestre\programacion 1\ConsoleApplication1\ConsoleApplication1.cpp(45,1): error C2059: error de sintaxis: 'else'
+C:\Users\DELL\Desktop\tareas 3er Semestre\programacion 1\ConsoleApplication1\ConsoleApplication1.cpp(45,6): error C2143: error de sintaxis: falta ';' delante de '{'
+C:\Users\DELL\Desktop\tareas 3er Semestre\programacion 1\ConsoleApplication1\ConsoleApplication1.cpp(45,6): error C2447: '{': falta el encabezado de función (¿lista formal de estilo anterior?)
+C:\Users\DELL\Desktop\tareas 3er Semestre\programacion 1\ConsoleApplication1\ConsoleApplication1.cpp(49,1): error C2059: error de sintaxis: 'return'
+C:\Users\DELL\Desktop\tareas 3er Semestre\programacion 1\ConsoleApplication1\ConsoleApplication1.cpp(50,1): error C2059: error de sintaxis: '}'
+C:\Users\DELL\Desktop\tareas 3er Semestre\programacion 1\ConsoleApplication1\ConsoleApplication1.cpp(50,1): error C2143: error de sintaxis: falta ';' delante de '}'
